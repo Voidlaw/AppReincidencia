@@ -1,0 +1,3415 @@
+"x"
+NA
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+"No violent"
+"No violent"
+"No violent"
+NA
+"No violent"
+"Violent"
+"Violent"
+NA
+"Violent"
+NA
+"Violent"
+"Violent"
+"No violent"
+"No violent"
+NA
+"No violent"
+"Violent"
+"No violent"
+NA
+NA
+NA
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+"No violent"
+"No violent"
+"No violent"
+NA
+"Violent"
+NA
+"Violent"
+"Violent"
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"No violent"
+NA
+"No violent"
+"No violent"
+NA
+NA
+NA
+"Violent"
+"No violent"
+"Violent"
+NA
+NA
+"No violent"
+NA
+NA
+"Violent"
+"No violent"
+"Violent"
+"No violent"
+"Violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+NA
+NA
+"Violent"
+"Violent"
+"Violent"
+"Violent"
+"No violent"
+"No violent"
+NA
+NA
+NA
+"Violent"
+NA
+NA
+"No violent"
+"No violent"
+"Violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+NA
+NA
+"Violent"
+"No violent"
+"Violent"
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+NA
+"No violent"
+"No violent"
+"Violent"
+"Violent"
+"No violent"
+"No violent"
+NA
+NA
+"No violent"
+NA
+"No violent"
+"No violent"
+NA
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+"No violent"
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+"Violent"
+"No violent"
+NA
+"Violent"
+NA
+"Violent"
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"Violent"
+NA
+"No violent"
+"No violent"
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+"Violent"
+NA
+NA
+"No violent"
+NA
+"Violent"
+"Violent"
+NA
+"No violent"
+NA
+NA
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+NA
+"No violent"
+NA
+"Violent"
+"No violent"
+"No violent"
+NA
+"Violent"
+"No violent"
+NA
+"No violent"
+"No violent"
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+NA
+"Violent"
+"Violent"
+NA
+NA
+NA
+"Violent"
+NA
+"No violent"
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+"No violent"
+NA
+"Violent"
+"No violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"No violent"
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+"Violent"
+NA
+NA
+"No violent"
+NA
+"No violent"
+NA
+NA
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+"No violent"
+"No violent"
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"No violent"
+NA
+NA
+NA
+"No violent"
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+"No violent"
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"Violent"
+NA
+"No violent"
+NA
+NA
+NA
+"No violent"
+"No violent"
+NA
+NA
+NA
+"No violent"
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+"No violent"
+NA
+"No violent"
+"Violent"
+NA
+NA
+"Violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"Violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+"No violent"
+NA
+"No violent"
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"No violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+"No violent"
+"No violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"Violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+"No violent"
+"No violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"Violent"
+"No violent"
+NA
+NA
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+"No violent"
+NA
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"Violent"
+"Violent"
+"Violent"
+"Violent"
+NA
+"Violent"
+"No violent"
+"Violent"
+"Violent"
+"Violent"
+"Violent"
+"Violent"
+"Violent"
+"Violent"
+"Violent"
+"No violent"
+"No violent"
+"Violent"
+"Violent"
+"No violent"
+"Violent"
+NA
+"No violent"
+"No violent"
+NA
+NA
+"No violent"
+NA
+"No violent"
+NA
+"No violent"
+NA
+NA
+"No violent"
+"No violent"
+NA
+"No violent"
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"No violent"
+"No violent"
+NA
+NA
+"No violent"
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"No violent"
+NA
+NA
+"No violent"
+"No violent"
+"Violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"Violent"
+"Violent"
+"No violent"
+"No violent"
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"Violent"
+"Violent"
+"No violent"
+NA
+"Violent"
+NA
+NA
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+"Violent"
+"Violent"
+NA
+"No violent"
+"Violent"
+NA
+NA
+"No violent"
+"No violent"
+"No violent"
+NA
+"No violent"
+"Violent"
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+"Violent"
+"Violent"
+NA
+"No violent"
+NA
+"Violent"
+NA
+"No violent"
+"Violent"
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+"Violent"
+"No violent"
+NA
+NA
+NA
+NA
+"Violent"
+NA
+"No violent"
+NA
+NA
+NA
+"Violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"Violent"
+"No violent"
+NA
+"Violent"
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"Violent"
+NA
+"Violent"
+NA
+"Violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+NA
+"Violent"
+"Violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+"Violent"
+NA
+"Violent"
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"Violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+"Violent"
+NA
+"Violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+"Violent"
+"No violent"
+NA
+"No violent"
+"Violent"
+"Violent"
+"Violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"Violent"
+"No violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"No violent"
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"No violent"
+"Violent"
+NA
+"No violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"No violent"
+"Violent"
+NA
+"No violent"
+"No violent"
+"Violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+NA
+NA
+"No violent"
+"Violent"
+NA
+"Violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"No violent"
+NA
+"No violent"
+NA
+"No violent"
+"No violent"
+NA
+NA
+NA
+"Violent"
+"Violent"
+"Violent"
+NA
+"No violent"
+NA
+NA
+"No violent"
+NA
+"Violent"
+"No violent"
+NA
+NA
+"No violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"No violent"
+NA
+"No violent"
+NA
+"No violent"
+NA
+NA
+NA
+NA
+"Violent"
+"No violent"
+"No violent"
+NA
+"No violent"
+NA
+"No violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"No violent"
+"Violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+"Violent"
+NA
+NA
+NA
+"Violent"
+NA
+"Violent"
+"No violent"
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+"No violent"
+NA
+"Violent"
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+"Violent"
+NA
+"No violent"
+NA
+NA
+NA
+"Violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"Violent"
+"Violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"No violent"
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+"No violent"
+NA
+NA
+"Violent"
+"Violent"
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"Violent"
+NA
+NA
+NA
+"Violent"
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"Violent"
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"Violent"
+NA
+"No violent"
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"Violent"
+"No violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"No violent"
+"Violent"
+"Violent"
+NA
+NA
+"Violent"
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"No violent"
+NA
+NA
+"Violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+"Violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"Violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+"Violent"
+"Violent"
+"No violent"
+"No violent"
+"Violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+NA
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"Violent"
+NA
+NA
+"Violent"
+"No violent"
+NA
+NA
+"Violent"
+NA
+"Violent"
+NA
+"Violent"
+"Violent"
+NA
+NA
+"Violent"
+NA
+"No violent"
+"No violent"
+NA
+NA
+"No violent"
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"Violent"
+NA
+NA
+"No violent"
+NA
+NA
+"No violent"
+"Violent"
+NA
+"No violent"
+NA
+"No violent"
+NA
+NA
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+"Violent"
+"Violent"
+"Violent"
+NA
+NA
+"Violent"
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"Violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+"Violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"No violent"
+"Violent"
+NA
+NA
+"Violent"
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+"No violent"
+NA
+NA
+"Violent"
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+"Violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"Violent"
+NA
+"No violent"
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"No violent"
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+"No violent"
+NA
+"Violent"
+NA
+"Violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+"Violent"
+NA
+NA
+"Violent"
+"No violent"
+NA
+"No violent"
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"Violent"
+"No violent"
+NA
+NA
+"No violent"
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"Violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"Violent"
+"No violent"
+"Violent"
+"No violent"
+"Violent"
+NA
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+"Violent"
+"No violent"
+"Violent"
+"No violent"
+"Violent"
+"Violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+"Violent"
+"No violent"
+"Violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+NA
+"Violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+NA
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"Violent"
+"Violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"Violent"
+"Violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+"Violent"
+"Violent"
+"Violent"
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"Violent"
+"No violent"
+"Violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"Violent"
+"Violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+"No violent"
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"Violent"
+"No violent"
+"No violent"
+"Violent"
+"Violent"
+"Violent"
+"No violent"
+"Violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"Violent"
+"No violent"
+"No violent"
+"Violent"
+"Violent"
+"Violent"
+"No violent"
+"Violent"
+"No violent"
+"Violent"
+"Violent"
+"Violent"
+"Violent"
+"No violent"
+"Violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+"Violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+"Violent"
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"No violent"
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+"Violent"
+NA
+NA
+"Violent"
+"No violent"
+NA
+"Violent"
+NA
+"No violent"
+"Violent"
+NA
+"No violent"
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+NA
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
+NA
+"No violent"
+NA
+"No violent"
+"No violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+NA
+NA
+"No violent"
+NA
+"No violent"
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+"No violent"
+NA
+"No violent"
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+"No violent"
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+"Violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"No violent"
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Violent"
+"No violent"
+"Violent"
+NA
+NA
+NA
+NA
+NA
+"Violent"
+"Violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"No violent"
+"Violent"
